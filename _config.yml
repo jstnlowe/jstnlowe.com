@@ -13,7 +13,7 @@ title: jstnlowe.com
 email: blog@jstnlowe.com
 description: >- # ignore newlines until "baseurl:"
   do what you can, with what you have, where you are
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://jstnlowe.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jstnlowe
 github_username:  jstnlowe
