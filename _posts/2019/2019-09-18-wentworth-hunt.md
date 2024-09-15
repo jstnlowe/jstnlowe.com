@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Wentworth Event Posters"
+title: "Wentworth Hunt Event Posters"
 date: 2019-09-18 20:14:35 -0400
 categories: design
 published: true
