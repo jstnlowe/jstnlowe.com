@@ -3,6 +3,7 @@ layout: post
 title: "What's in a name?"
 date: 2024-09-13 20:15 -0400
 categories: python
+published: true
 ---
 
 Tonight’s entertainment is brought to you by one of the top teams competing in [jailCTF 2024](https://ctf.pyjail.club/).

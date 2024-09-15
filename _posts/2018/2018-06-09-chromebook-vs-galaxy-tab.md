@@ -3,6 +3,7 @@ layout: post
 title: "Chromebook Plus vs Galaxy Tab S3"
 date: 2018-06-09 19:14:26 -0400
 categories: hardware review
+published: true
 ---
 
 As with almost any other consumer product, the internet is full of in-depth reviews of Samsung’s [Chromebook Plus ](http://amzn.to/2D2PfEv)and their [Galaxy Tab S3](http://amzn.to/2D131HT). They go in to agonizing detail. The smallest shortcoming is pronounced a catastrophic design flaw that, the reviewers assure us, will bankrupt Samsung and single-handedly bring about the complete economic destruction of South Korea. Often, the authors celebrate the most minor differences (it’s silver and not black!) in order to pronounce one of them the second coming of Christ. It’s absurd. Here's my attempt at not being absurd.

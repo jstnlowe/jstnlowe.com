@@ -3,6 +3,7 @@ layout: post
 title: "Retrieving Values from Nested Unnamed JSON Arrays"
 date: 2019-03-09 20:33:39 -0400
 categories: json sql
+published: true
 ---
 
 Came across an interesting case where the JSON was an unnamed array of unnamed arrays and the user needed to retrieve a value from within one of those inner arrays.

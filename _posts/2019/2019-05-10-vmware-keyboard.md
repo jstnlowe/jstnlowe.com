@@ -3,6 +3,7 @@ layout: post
 title: "VMWare VM Doesn't Accept Keyboard Input after Conversion"
 date: 2019-05-10 14:36:17 -0400
 categories: vmware troubleshooting
+published: true
 ---
 
 Recently used [vCenter Converter]([https://www.vmware.com/go/getconverter](https://www.vmware.com/go/getconverter)) to create a VM from a Lenovo ThinkPad and on booting the VM afterwards, discovered that it would not accept keyboard input. Not even from the “Send Ctrl+Alt+Del” button. The mouse was fine, so I was able to use Windows’ on-screen keyboard to do some digging.

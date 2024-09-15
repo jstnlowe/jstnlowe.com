@@ -3,6 +3,7 @@ layout: post
 title: "Converting Perfmon BLG with Relog"
 date: 2019-04-16 13:56:01 -0400
 categories: perfmon relog
+published: true
 ---
 
 Relog is a great, probably underutilized utility that ships with Windows (`\Windows\System32\`). It lets you take just about any system performance log file and convert it to a number of formats (including dumping them into SQL). It also supports resampling, however the resampling (with `-t`) does not involve any sort of statistical operation; it just takes every nth sample. For example, a 1-min interval log with `-t 60` specified would take every 60th sample in the log, effectively giving you a 1-hour interval.

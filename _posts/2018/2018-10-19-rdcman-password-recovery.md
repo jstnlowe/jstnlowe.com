@@ -3,6 +3,7 @@ layout: post
 title: "Recovering Passwords from Remote Desktop Connection Manager"
 date: 2018-10-19 22:24:17 -0400
 categories: powershell
+published: true
 ---
 
 Microsoft’s Remote Desktop Connection Manager stores connection parameters - including credentials - in the .rdg file. The file itself is just an XML file but the passwords it contains are (rightfully) encrypted. With Powershell, we can pull those stored passwords out and decrypt them.

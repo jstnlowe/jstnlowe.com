@@ -3,6 +3,7 @@ layout: post
 title: "DisplayPort Flickering on Dell Optiplex 9020"
 date: 2018-01-30 13:53:37 -0400
 categories: hardware troubleshooting
+published: true
 ---
 
 When multiple DisplayPort 1.2-compatible displays are connected via DisplayPort to the integrated Intel HD 4600 in an Optiplex 9020, one or both of the displays will flicker off and on intermittently. Usually it is the secondary display. In this case, it was a pair of Dell U2415s. Updating drivers will have no effect - this is an issue with the monitor hardware/firmware.

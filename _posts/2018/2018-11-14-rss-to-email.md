@@ -3,6 +3,7 @@ layout: post
 title: "Sending RSS/Atom Feed Items to Your Email"
 date: 2018-11-14 01:56:30 -0400
 categories: work
+published: true
 ---
 
 [With the death of Google Reader over five years ago](https://en.wikipedia.org/wiki/Google_Reader#Discontinuation), I hadn't really come across a good alternative (mostly because I hate having to deal with yet another application or site) until I started using [IFTTT](https://ifttt.com/) for some automation tasks. Turns out, you can really quickly create an IFTTT feed-checker that sends new items to you via email. Then, just create a filter for those emails to stick them in their own folder or add a label to them.

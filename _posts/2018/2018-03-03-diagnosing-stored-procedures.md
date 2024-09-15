@@ -3,6 +3,7 @@ layout: post
 title: "Diagnosing Slow-Running Stored Procedures"
 date: 2018-03-03 13:47:21 -0400
 categories: sql
+published: true
 ---
 
 This week, I had a stored procedure taking 2 to 3 seconds to execute from a .NET application, where it previously took under 40ms. A few seconds doesn't seem that long, but the application was looping through a collection of items and calling the procedure around a hundred times. Meaning for the user, the time to complete the workflow had increased from around 4 seconds to over 4 minutes. Nothing had changed with the tables being used and index fragmentation was not an issue, thanks to fairly aggressive maintenance plans.

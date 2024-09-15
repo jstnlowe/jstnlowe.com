@@ -3,6 +3,7 @@ layout: post
 title: "CSS/jQuery Sticky Notes"
 date: 2018-11-05 20:54:13 -0400
 categories: css jquery
+published: true
 ---
 
 <p><div style="height: 0; overflow: hidden; padding-bottom: 70%; position: relative;">

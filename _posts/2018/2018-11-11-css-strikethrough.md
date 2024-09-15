@@ -3,6 +3,7 @@ layout: post
 title: "CSS Text Strike-Through and Correction"
 date: 2018-11-11 18:18:52 -0400
 categories: css
+published: true
 ---
 
 <p><div style="height: 0; overflow: hidden; padding-bottom: 50%; position: relative;">

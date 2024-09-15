@@ -3,6 +3,7 @@ layout: post
 title: "Three-Pronged Approach to Phishing Emails"
 date: 2019-02-23 21:30:40 -0400
 categories: security
+published: true
 ---
 
 There has been a dramatic increase in phishing attempts the past few years with the most common tactic being to send out emails with spoofed “from” addresses that contain malicious attachments or instructions. At a glance, the better-crafted emails might seem legitimate and attackers have gotten very good at exploiting human weaknesses. Educating users just is not enough. Authenticating emails is somewhat complex and relies heavily on the sender for proper implementation and the recipient for proper scrutiny.

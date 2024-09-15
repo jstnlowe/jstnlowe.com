@@ -3,6 +3,7 @@ layout: post
 title: "Hosting & Presenting"
 date: 2018-11-09 21:10:56 -0400
 categories: work
+published: true
 ---
 
 I've sat through a lot of web meetings. A lot of software demos, a lot of Powerpoints, a lot of webinars. I would say that the vast majority of the presenters (easily 9 out of 10) show little awareness for the things they're inadvertently revealing to their attendees. It's a disregard for the disclosure of information that, in some cases, could be considered straight-up negligence. And it has nothing to do with how terrible their Powerpoint slides are.

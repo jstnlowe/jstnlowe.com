@@ -3,6 +3,7 @@ layout: post
 title: "CSS Academic Paper Layout"
 date: 2017-02-23 16:30:55 -0400
 categories: css
+published: true
 ---
 
 <p><div style="height: 0; overflow: hidden; padding-bottom: 70%; position: relative;">

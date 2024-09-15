@@ -3,6 +3,7 @@ layout: post
 title: "Multi-booting Windows 10 Environments with Bitlocker Enabled"
 date: 2018-10-20 09:53:33 -0400
 categories: windows
+published: true
 ---
 
 The goal here is to get multiple installations of Windows 10 on separate encrypted partitions on a single physical drive and we want to use the stock Windows bootloader and Bitlocker, avoiding any third-party solutions because I'm a fan of keeping things as simple as possible. I'd say the end result accomplishes that, but figuring out how to get to that point was a pain in the ass.

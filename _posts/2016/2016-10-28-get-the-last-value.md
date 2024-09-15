@@ -3,6 +3,7 @@ layout: post
 title: "Get the Last Value from a Spreadsheet Column"
 date: 2016-09-13 17:27:09 -0400
 categories: excel google-sheets
+published: true
 ---
 
 The following will get the value of the last populated cell in a column regardless of the data types in the column or if there are empty cells among the populated cells.

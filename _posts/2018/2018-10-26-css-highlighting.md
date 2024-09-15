@@ -3,6 +3,7 @@ layout: post
 title: "CSS Text Highlighter Effect"
 date: 2018-10-26 17:49:25 -0400
 categories: css
+published: true
 ---
 
 <p><div style="height: 0; overflow: hidden; padding-bottom: 45%; position: relative;">

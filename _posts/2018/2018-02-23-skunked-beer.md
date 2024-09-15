@@ -3,6 +3,7 @@ layout: post
 title: "Skunked Beer"
 date: 2018-02-23 09:29:11 -0400
 categories: beer chemistry
+published: true
 ---
 
 It has very little to do with temperature and everything to do with light. It was first documented by Dr. Carl Linter in the 1875 Lehrbuch der Bierbrauerei, but an explanation for the phenomenon wasn't presented [until 2001 by Burns et al](https://onlinelibrary.wiley.com/doi/full/10.1002/1521-3765%2820011105%297%3A21%3C4553%3A%3AAID-CHEM4553%3E3.0.CO%3B2-0). This formally identified light as the culprit and documented the mechanism.

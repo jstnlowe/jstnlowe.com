@@ -3,6 +3,7 @@ layout: post
 title: "CSS Notebook Background"
 date: 2018-11-04 16:39:55 -0400
 categories: css
+published: true
 ---
 
 <p><div style="height: 0; overflow: hidden; padding-bottom: 70%; position: relative;">
