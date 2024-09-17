@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Converting Perfmon BLG with Relog"
 date: 2019-04-16 13:56:01 -0400
 categories: perfmon relog

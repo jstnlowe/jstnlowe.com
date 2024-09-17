@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Multi-booting Windows 10 Environments with Bitlocker Enabled"
 date: 2018-10-20 09:53:33 -0400
 categories: windows

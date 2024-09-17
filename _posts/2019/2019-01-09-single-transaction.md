@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Single Transaction Processing in SSRS"
 date: 2019-01-09 19:02:25 -0400
 categories: ssrs

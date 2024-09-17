@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "VMWare VM Doesn't Accept Keyboard Input after Conversion"
 date: 2019-05-10 14:36:17 -0400
 categories: vmware troubleshooting

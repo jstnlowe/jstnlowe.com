@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "DisplayPort Flickering on Dell Optiplex 9020"
 date: 2018-01-30 13:53:37 -0400
 categories: hardware troubleshooting

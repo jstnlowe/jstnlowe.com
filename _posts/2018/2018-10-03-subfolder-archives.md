@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Create Individual Archives of Subfolders"
 date: 2018-10-03 20:16:25 -0400
 categories: powershell

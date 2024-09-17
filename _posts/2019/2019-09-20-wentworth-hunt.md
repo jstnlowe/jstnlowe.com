@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Wentworth Hunt Blessing of the Hounds Poster"
 date: 2019-09-20 23:06:41 -0400
 categories: design

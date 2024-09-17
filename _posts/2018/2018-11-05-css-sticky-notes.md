@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "CSS/jQuery Sticky Notes"
 date: 2018-11-05 20:54:13 -0400
 categories: css jquery

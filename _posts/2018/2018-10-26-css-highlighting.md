@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "CSS Text Highlighter Effect"
 date: 2018-10-26 17:49:25 -0400
 categories: css

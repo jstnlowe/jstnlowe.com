@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Verifying Exported SSRS Report Content"
 date: 2019-06-19 13:32:20 -0400
 categories: vmware troubleshooting

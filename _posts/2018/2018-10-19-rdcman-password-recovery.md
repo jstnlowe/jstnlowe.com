@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Recovering Passwords from Remote Desktop Connection Manager"
 date: 2018-10-19 22:24:17 -0400
 categories: powershell

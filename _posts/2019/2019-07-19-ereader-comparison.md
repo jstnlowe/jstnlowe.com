@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Onyx eReader Comparison"
 date: 2019-07-19 19:12:32 -0400
 categories: hardware

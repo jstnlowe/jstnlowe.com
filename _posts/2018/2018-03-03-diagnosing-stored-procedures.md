@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Diagnosing Slow-Running Stored Procedures"
 date: 2018-03-03 13:47:21 -0400
 categories: sql

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Sending RSS/Atom Feed Items to Your Email"
 date: 2018-11-14 01:56:30 -0400
 categories: work

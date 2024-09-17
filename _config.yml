@@ -2,8 +2,7 @@
 # Not reloaded automatically when you use 'bundle exec jekyll serve'
 # If you change this file, restart the server process
 
-# Site settings
-# Accessed via {{ site.title }}, {{ site.email }}, etc.
+# Site settings, accessed via {{ site.title }}, {{ site.email }}, etc.
 # Create custom variable via {{ site.myvariable }}
 
 #{{ site.title }}
@@ -18,10 +17,9 @@ url: "https://jstnlowe.com" # the base hostname & protocol for your site, e.g. h
 twitter_username: jstnlowe
 github_username:  jstnlowe
 
-# Build settings
-theme: minima
+# Build Settings
+theme: minimal-mistakes-jekyll
 plugins:
-  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.

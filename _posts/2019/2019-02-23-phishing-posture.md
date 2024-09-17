@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Three-Pronged Approach to Phishing Emails"
 date: 2019-02-23 21:30:40 -0400
 categories: security

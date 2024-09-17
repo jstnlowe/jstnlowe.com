@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Dell Optiplex 9020: No boot device available"
 date: 2018-03-28 23:04:51 -0400
 categories: hardware troubleshooting

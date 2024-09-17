@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Chromebook Plus vs Galaxy Tab S3"
 date: 2018-06-09 19:14:26 -0400
 categories: hardware review

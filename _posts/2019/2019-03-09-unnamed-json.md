@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Retrieving Values from Nested Unnamed JSON Arrays"
 date: 2019-03-09 20:33:39 -0400
 categories: json sql

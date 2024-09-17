@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "What's in a name?"
 date: 2024-09-13 20:15 -0400
 categories: python

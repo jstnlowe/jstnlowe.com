@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "CSS Academic Paper Layout"
 date: 2017-02-23 16:30:55 -0400
 categories: css

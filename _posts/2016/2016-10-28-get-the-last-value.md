@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Get the Last Value from a Spreadsheet Column"
 date: 2016-09-13 17:27:09 -0400
 categories: excel google-sheets

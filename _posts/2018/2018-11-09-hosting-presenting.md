@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Hosting & Presenting"
 date: 2018-11-09 21:10:56 -0400
 categories: work

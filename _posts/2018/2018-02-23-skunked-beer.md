@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Skunked Beer"
 date: 2018-02-23 09:29:11 -0400
 categories: beer chemistry
