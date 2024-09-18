@@ -2,16 +2,14 @@ source "https://rubygems.org"
 # Run Jekyll with 'bundle exec jekyll serve'
 # gem "jekyll", "~> 4.3.3"
 
-# Theme
-gem "minimal-mistakes-jekyll"
-
 # GitHub Pages, to upgrade, run `bundle update github-pages`.
 gem "github-pages", "~> 232", group: :jekyll_plugins
 
+# Theme
+gem "minimal-mistakes-jekyll"
+
 # Plugins
-group :jekyll_plugins do
-  gem 'jekyll-include-cache'
-end
+gem 'jekyll-include-cache'
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.

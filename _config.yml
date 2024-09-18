@@ -18,6 +18,7 @@ twitter_username: jstnlowe
 github_username:  jstnlowe
 
 # Build Settings
+remote_theme: "mmistakes/minimal-mistakes" 
 theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-include-cache
