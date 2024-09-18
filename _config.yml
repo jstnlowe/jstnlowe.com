@@ -20,6 +20,7 @@ github_username:  jstnlowe
 # Build Settings
 theme: minimal-mistakes-jekyll
 plugins:
+  - jekyll-include-cache
 
 # Exclude from processing.
 # The following items will not be processed, by default.
