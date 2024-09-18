@@ -3,13 +3,8 @@ source "https://rubygems.org"
 # gem "jekyll", "~> 4.3.3"
 
 # GitHub Pages, to upgrade, run `bundle update github-pages`.
-gem "github-pages", "~> 232", group: :jekyll_plugins
-
-# Theme
-gem "minimal-mistakes-jekyll"
-
-# Plugins
-gem 'jekyll-include-cache'
+gem "github-pages", group: :jekyll_plugins
+gem "jekyll-include-cache", group: :jekyll_plugins
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.
